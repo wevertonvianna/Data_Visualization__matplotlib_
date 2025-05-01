@@ -46,11 +46,11 @@ O gráfico foi salvo com o seguinte comando:
 
 ```python
 fig.savefig('migracao_brasil_Canada.png', transparent=False, dpi=1200, bbox_inches='tight')
-
+```
 
 ## 👤 Autor
 
 Feito com 💙 por [Weverton Ferreira]
 🔗 [LinkedIn](www.linkedin.com/in/weverton-vianna-ferreira)
 🐙 [GitHub](https://github.com/wevertonvianna)
-```
+
