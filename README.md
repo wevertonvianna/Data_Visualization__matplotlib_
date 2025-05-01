@@ -19,6 +19,11 @@ O objetivo deste projeto é praticar a criação de gráficos com **Matplotlib**
 
 ![Brasil por ano](imigração_america_sul.png)
 
+### 3. Imigração dos paises da américa do sul ano
+
+![paises por ano](imigração_america_sul.html)
+
+
 ## 🧰 Ferramentas utilizadas
 
 - Python
